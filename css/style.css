@@ -1,0 +1,159 @@
+body {
+    font-family: 'Architects Daughter', cursive;
+    box-sizing: border-box;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    max-height: fit-content;
+}
+
+
+/*----------------- header -------------------- */
+
+header div {
+    float: left;
+    width: 22%;
+
+}
+
+.iconimage {
+    position: relative;
+    left: 18.7cm;
+    top: .5cm;
+}
+
+header div h1 {
+    position: relative;
+    left: 1.3cm ;
+    bottom: 1.2cm;
+}
+
+.delicious {
+    font-size: x-large;
+}
+
+.bestfood {
+    font-size: x-small;
+}
+
+
+header .br {
+    position: relative;
+    top: 2px;
+    width: 100%;
+    height: 22px;
+}
+
+
+
+/*----------------------------main ----------------------------*/
+
+main {
+    margin-top: 1cm;
+    clear: both;
+    float: left;
+
+}
+
+main div {
+    position: relative;
+    left: 30.5cm;
+    bottom: 20px;
+  
+}
+
+.printword {
+    font-size: x-small;
+}
+
+
+
+.choclatepizza {
+    font-size: xx-large;
+
+}
+
+
+.post {
+    font-size: x-small;
+}
+
+
+
+.chocpizzaimg {
+    position: relative;
+    width: 100%;
+    top: 10px;
+}
+
+.paraghraph {
+    position: relative;
+    left: 0cm;
+    top: 1cm;
+    bottom: 1cm;
+}
+
+.par {
+    float: left;
+    padding: 15px;
+    width: 98%;
+}
+
+.resepies {
+    position: relative;
+    top: 1cm;
+    left: 4cm;
+    margin-left: 30px;
+    padding: 10px;
+
+}
+
+.recepi {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    list-style-type: square;
+    line-height: 1cm;
+    background-image: url("../img/list-bg.png");
+
+}
+
+
+/*----------------------------foooooooooooooooter -------------------------*/
+
+
+footer .person , footer .lastpar {
+    float: left;
+    margin-top: 2cm;
+}
+footer .brtwo {
+    position: relative;
+    top: 1.3cm;
+    width: 100%;
+    height: 22px;
+}
+
+.person {
+    position: relative;
+    bottom: 2cm;
+    right: .3cm;
+}
+
+.vanessa {
+    font-size: x-large;
+}
+
+.lastlogo {
+    position: relative;
+    top: 4.7cm;
+    right: 4cm;
+
+}
+
+.lastparaghraph {
+    position: relative;
+    top: 5cm;
+    right: 6.5cm;
+
+}
